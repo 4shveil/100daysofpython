@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/Tkinter-2C598C?style=for-the-badge" alt="Tkinter Badge">
   <img src="https://img.shields.io/badge/Turtle-86B44B?style=for-the-badge" alt="Turtle Badge">
 
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux Badge">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
   <img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI Badge">
@@ -23,7 +24,7 @@
 
 # 100 Days of Code - The Complete Journey 🚀
 
-Welcome! This repository documents my entire journey through the **100 Days of Code: The Complete Python Pro Bootcamp**. I'm taking this course as the first major step towards my desired career in **Cybersecurity**. By mastering Python, my goal is to build my own security tools and develop a deep understanding of the language that powers so much of the digital world. This repository is the living record of that commitment.
+Welcome! This repository documents my entire journey through the **100 Days of Code: The Complete Python Pro Bootcamp**. I'm taking this course as the first major step towards my desired career in **Cybersecurity**. By mastering Python, my goal is to build my own security tools and develop a deep understanding of the language that powers so much of the digital world. This entire journey was undertaken on an Arch Linux environment, providing a fantastic platform for development and learning. This repository is the living record of that commitment.
 
 ---
 
