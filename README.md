@@ -16,10 +16,10 @@ Welcome! This repository documents my entire journey through the **100 Days of C
 
 This section contains the daily mini-projects that helped reinforce the core concepts. Each one represents a new skill learned on my path to becoming a proficient developer.
 
-**✨ Featured Projects:**
-* **Day 34: Trivia Quiz App** - A great introduction to working with APIs and building a graphical user interface (GUI) with Tkinter.
-* **Day 45: Web Scraping with Beautiful Soup** - Scraped a list of 100 movies to watch and saved them to a local file.
-* **Day 57: Blog Templating** - An excellent project for understanding templating with Jinja and structuring a Flask application.
+**✨ Featured Projects:** ### Didn't do any of these yet! But as I do them I will update this read me and put a checkmark by their side!
+* **Day 34: Trivia Quiz App** - A great introduction to working with APIs and building a graphical user interface (GUI) with Tkinter. ❌
+* **Day 45: Web Scraping with Beautiful Soup** - Scraped a list of 100 movies to watch and saved them to a local file. ❌
+* **Day 57: Blog Templating** - An excellent project for understanding templating with Jinja and structuring a Flask application. ❌
 
 <details>
 <summary><strong>View All Daily Projects</strong></summary>
