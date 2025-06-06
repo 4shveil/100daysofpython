@@ -1,31 +1,53 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium Badge">
+  <img src="https://img.shields.io/badge/API-20232A?style=for-the-badge&logo=json&logoColor=white" alt="API Badge">
+</p>
+
 # 100 Days of Code - The Complete Journey 🚀
 
-Welcome to my repository for the **100 Days of Code: The Complete Python Pro Bootcamp** by Angela Yu! This repository is a comprehensive collection of all my work throughout this incredible coding journey. It's organized into three main sections, each representing a different phase of my learning and development.
+Welcome! This repository documents my entire journey through the **100 Days of Code: The Complete Python Pro Bootcamp**. I'm taking this course as the first major step towards my desired career in **Cybersecurity**. By mastering Python, my goal is to build my own security tools and develop a deep understanding of the language that powers so much of the digital world. This repository is the living record of that commitment.
 
 ---
 
-## 📂 Daily Projects
+## 📂 [Daily Projects](./Projects/)
 
-This section contains the final project from each day of the course. These projects were instrumental in reinforcing the new concepts I learned daily. Each day brought a new challenge and a new opportunity to build something from scratch.
+This section contains the daily mini-projects that helped reinforce the core concepts. Each one represents a new skill learned on my path to becoming a proficient developer.
 
-You'll find a variety of projects here, from simple console applications to more complex programs involving APIs, web scraping, and data processing. Each project is a testament to the daily grind and the small, consistent steps that lead to significant progress.
+**✨ Featured Projects:**
+* **Day 34: Trivia Quiz App** - A great introduction to working with APIs and building a graphical user interface (GUI) with Tkinter.
+* **Day 45: Web Scraping with Beautiful Soup** - Scraped a list of 100 movies to watch and saved them to a local file.
+* **Day 57: Blog Templating** - An excellent project for understanding templating with Jinja and structuring a Flask application.
 
----
+<details>
+<summary><strong>View All Daily Projects</strong></summary>
 
-## 🏆 Capstone Projects
-
-Here, you will find the major capstone projects from the course. These projects were designed to integrate multiple skills and concepts learned over several days. They represent key milestones in the curriculum and are more substantial in scope and complexity than the daily projects.
-
-These capstones are a great way to see how different programming concepts can be combined to create a fully functional application. They were challenging, rewarding, and a fantastic way to solidify my understanding of the material.
-
----
-
-## ✨ Portfolio-Worthy Projects
-
-This is where I've put my skills to the ultimate test! The projects in this section are from Day 82 to Day 100, where the challenge was to come up with and build my own ideas without direct guidance from Angela. This section, which I've decided to call the **"Innovation Incubator,"** showcases my ability to independently conceptualize, design, and execute projects from start to finish.
-
-These projects are a true reflection of my personal interests and my growth as a developer. They demonstrate my problem-solving abilities and my passion for creating practical and innovative solutions. I'm incredibly proud of the work in this section, and I hope it gives you a glimpse into my potential as a developer.
+* [Day 1: Band Name Generator](./Projects/Day-01-Band-Name-Generator)
+* [Day 2: Tip Calculator](./Projects/Day-02-Tip-Calculator)
+* </details>
 
 ---
 
-Thank you for visiting my repository! Feel free to explore the different projects and see my journey unfold.
+## 🏆 [Capstone Projects](./capstone-projects/)
+
+These are the major milestone projects from the course, designed to integrate multiple skills into a single, cohesive application, solidifying the knowledge gained over many lessons.
+
+### ☕️ Cafe & Wifi Website
+A Flask-based website that allows users to find and submit cafes with good wifi. This project integrated web development with Flask, databases with SQLAlchemy, and building a public RESTful API.
+
+---
+
+## ✨ [Innovation Incubator (Portfolio Projects)](./portfolio-projects/)
+
+This is where I applied my skills to my own ideas! From Day 82 to 100, I conceptualized and built these projects independently. They reflect my personal interests in Cybersecurity and showcase my ability to develop an idea from concept to completion.
+
+### Project 1: [Your Project Name]
+*A brief, exciting one-or-two sentence description of what your project is and what it does, perhaps relating it to a cybersecurity concept like automation, data analysis, or network scanning.*
+
+**Technologies Used:** Python, [Library X], [API Y], etc.
+
+---
+
+Thank you for visiting! Feel free to explore the projects and see my journey unfold.
