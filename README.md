@@ -12,7 +12,7 @@ Welcome! This repository documents my entire journey through the **100 Days of C
 
 ---
 
-## 📂 [Daily Projects](./Projects/)
+## 📂 [Daily Projects](./Daily Projects/)
 
 This section contains the daily mini-projects that helped reinforce the core concepts. Each one represents a new skill learned on my path to becoming a proficient developer.
 
@@ -24,8 +24,11 @@ This section contains the daily mini-projects that helped reinforce the core con
 <details>
 <summary><strong>View All Daily Projects</strong></summary>
 
-* [Day 1: Band Name Generator](./Projects/Day-01-Band-Name-Generator)
-* [Day 2: Tip Calculator](./Projects/Day-02-Tip-Calculator)
+* [Day 5: Password Generator](./Daily%20Projects/Day5/PasswordGenerator.py)
+* [Day 6: Hurdle Solutions](./Daily%20Projects/Day6/)
+* [Day 7: Hangman Game](./Daily%20Projects/Day7/hangman.py)
+* [Day 8: Caesar Cypher](./Daily%20Projects/Day8/CaesarCypher.py)
+* [Day 9: Secret Bid](./Daily%20Projects/Day9/secretbidproject.py)
 * </details>
 
 ---
@@ -34,19 +37,16 @@ This section contains the daily mini-projects that helped reinforce the core con
 
 These are the major milestone projects from the course, designed to integrate multiple skills into a single, cohesive application, solidifying the knowledge gained over many lessons.
 
-### ☕️ Cafe & Wifi Website
-A Flask-based website that allows users to find and submit cafes with good wifi. This project integrated web development with Flask, databases with SQLAlchemy, and building a public RESTful API.
+### ♠2️⃣1️⃣ Blackjack
+A blackjack game made with CLI, no GUI, yet fully playable, and functional, with a dealer
+
+### More to come!
 
 ---
 
 ## ✨ [Innovation Incubator (Portfolio Projects)](./portfolio-projects/)
 
-This is where I applied my skills to my own ideas! From Day 82 to 100, I conceptualized and built these projects independently. They reflect my personal interests in Cybersecurity and showcase my ability to develop an idea from concept to completion.
-
-### Project 1: [Your Project Name]
-*A brief, exciting one-or-two sentence description of what your project is and what it does, perhaps relating it to a cybersecurity concept like automation, data analysis, or network scanning.*
-
-**Technologies Used:** Python, [Library X], [API Y], etc.
+### Not yet there!
 
 ---
 
