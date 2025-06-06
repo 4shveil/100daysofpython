@@ -28,7 +28,7 @@ Welcome! This repository documents my entire journey through the **100 Days of C
 
 ---
 
-## 📂 [Daily Projects](./Daily Projects/)
+## 📂 [Daily Projects](./Daily%20Projects/)
 
 This section contains the daily mini-projects that helped reinforce the core concepts. Each one represents a new skill learned on my path to becoming a proficient developer.
 
