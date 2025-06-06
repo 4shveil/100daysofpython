@@ -45,7 +45,7 @@ This section contains the daily mini-projects that helped reinforce the core con
 * [Day 7: Hangman Game](./Daily%20Projects/Day7/hangman.py)
 * [Day 8: Caesar Cypher](./Daily%20Projects/Day8/CaesarCypher.py)
 * [Day 9: Secret Bid](./Daily%20Projects/Day9/secretbidproject.py)
-* [Day 10: Calculator(./Daily%20Projects/Day10/calculator.py)]
+* [Day 10: Calculator](./Daily%20Projects/Day10/calculator.py)
   </details>
 
 ---
