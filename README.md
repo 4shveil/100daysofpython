@@ -50,11 +50,11 @@ This section contains the daily mini-projects that helped reinforce the core con
 
 ---
 
-## 🏆 [Capstone Projects](./capstone-projects/)
+## 🏆 [Capstone Projects](./Capstone%20Projects/)
 
 These are the major milestone projects from the course, designed to integrate multiple skills into a single, cohesive application, solidifying the knowledge gained over many lessons.
 
-### ♠2️⃣1️⃣ Blackjack
+### [♠2️⃣1️⃣ Blackjack](./Capstone%20Projects/day-11-capstone/blackjack.py)
 A blackjack game made with CLI, no GUI, yet fully playable, and functional, with a dealer
 
 ### More to come!
