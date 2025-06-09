@@ -47,6 +47,7 @@ This section contains the daily mini-projects that helped reinforce the core con
 * [Day 9: Secret Bid](./Daily%20Projects/Day9/secretbidproject.py)
 * [Day 10: Calculator](./Daily%20Projects/Day10/calculator.py)
 * [Day 12: Number Guessing game](./Daily%20Projects/Day12/numberguessinggame.py)
+* [Day 14: Higher lower game](./Daily%20Projects/Day14/higherlower.py)
   </details>
 
 ---
