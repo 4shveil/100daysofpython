@@ -49,6 +49,7 @@ This section contains the daily mini-projects that helped reinforce the core con
 * [Day 12: Number Guessing game](./Daily%20Projects/Day12/numberguessinggame.py)
 * [Day 14: Higher lower game](./Daily%20Projects/Day14/higherlower.py)
 * [Day 15: Coffee Machine](./Daily%20Projects/Day15/coffemachine.py)
+* [Day 16: Coffee Machine but OOP](./Daily%20Projects/Day16)
   </details>
 
 ---
