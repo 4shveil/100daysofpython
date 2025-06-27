@@ -50,6 +50,7 @@ This section contains the daily mini-projects that helped reinforce the core con
 * [Day 14: Higher lower game](./Daily%20Projects/Day14/higherlower.py)
 * [Day 15: Coffee Machine](./Daily%20Projects/Day15/coffemachine.py)
 * [Day 16: Coffee Machine but OOP](./Daily%20Projects/Day16)
+* [Day 20-21: Snake Game](./Daily%20Projects/DayDay21-22)
   </details>
 
 ---
