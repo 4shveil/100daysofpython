@@ -64,6 +64,9 @@ These are the major milestone projects from the course, designed to integrate mu
 ### [♠2️⃣1️⃣ Blackjack](./Capstone%20Projects/day-11-capstone/blackjack.py)
 A blackjack game made with CLI, no GUI, yet fully playable, and functional, with a dealer
 
+### [🐢 Turtle Crossing](./Capstone%20Projects/turtle-crossing)
+A turtle crossing game kinda like crossy road, with graphics using turtle library. Used super class concepts here, among many other OOP concepts
+
 ### More to come!
 
 ---
