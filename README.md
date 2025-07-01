@@ -52,6 +52,7 @@ This section contains the daily mini-projects that helped reinforce the core con
 * [Day 16: Coffee Machine but OOP](./Daily%20Projects/Day16)
 * [Day 20-21: Snake Game](./Daily%20Projects/Day21-22)
 * [Day 22: Pong Game](./Daily%20Projects/Day22)
+* [Day 24: Mail Merge](./Daily%20Projects/day%2024/mail-merge)
   </details>
 
 ---
