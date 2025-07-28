@@ -54,7 +54,6 @@ This section contains the daily mini-projects that helped reinforce the core con
 * [Day 22: Pong Game](./Daily%20Projects/Day22)
 * [Day 24: Mail Merge](./Daily%20Projects/day%2024/mail-merge)
 * [Day 25: Guess the country game and squirrel data census](./Daily%20Projects/day25)
-* Cancun was great and I am finally back after a 1 week break
 * [Day 26: Nato alphabet conversor](./Daily%20Projects/day%2026)
   </details>
 
